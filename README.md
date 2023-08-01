@@ -48,7 +48,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/ndlxp200
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&theme=flag-india)](https://github.com/ndlxp2008/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=ndlxp2008&count_private=true&show_icons=true" height=145/></span>](https://github.com/ndlxp2008)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact" height=145/></span>  <span><img src="https://github-readme-stats.vercel.app/api?username=ndlxp2008&count_private=true&show_icons=true" height=145/></span>](https://github.com/ndlxp2008)
 
 <!--
 <table border="0">
