@@ -15,11 +15,10 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://github.com/ndlxp2008)
 
 
-- 🌱 I’m currently learning:
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://github.com/ndlxp2008)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/ndlxp2008/count.svg)](https://github.com/ndlxp2008) visitor, Thank You!🎉🎉
+
+欢迎您，您是我的 [![Visitor Count](https://profile-counter.glitch.me/ndlxp2008/count.svg)](https://github.com/ndlxp2008) 访客, 谢谢!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&theme=flag-india)](https://github.com/ndlxp2008/github-readme-stats) -->
 
