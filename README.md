@@ -6,9 +6,6 @@
 - ⚡ 热衷于技术研究，喜欢解决研发过程中的疑难杂症；  
   
 
-- ⚡ 目前正在积极的深入前端技术的学习。  
-
-
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:ndlxp2008@163.com)](mailto:ndlxp2008@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ndlxp2008@gmail.com)
