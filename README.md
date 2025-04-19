@@ -1,95 +1,77 @@
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 你好，我是 BTREE
 
-- ### 我是BTREE，👨‍💻 从2014年开始工作 🚀，搞过Android、后端，前端，目前是全栈，主业后端架构。  
-  
-
-- ⚡ 热衷于技术研究，喜欢解决研发过程中的疑难杂症；  
-  
-
-
-[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:ndlxp2008@163.com)](mailto:ndlxp2008@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ndlxp2008@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://github.com/ndlxp2008)
-
-
-
-
-
-欢迎您，您是我的 [![Visitor Count](https://profile-counter.glitch.me/ndlxp2008/count.svg)](https://github.com/ndlxp2008) 访客, 谢谢!🎉🎉
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&theme=flag-india)](https://github.com/ndlxp2008/github-readme-stats) -->
-
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact" height=145/></span>  <span><img src="https://github-readme-stats.vercel.app/api?username=ndlxp2008&count_private=true&show_icons=true" height=145/></span>](https://github.com/ndlxp2008)
-
-<!--
-<table border="0">
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact" alt="Top Langs" height="160" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=ndlxp2008&show_icons=true" alt="ndlxp2008's GitHub stats" height="160" />
-</td>
-</tr>
-</table>
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact)
-![ndlxp2008's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndlxp2008&show_icons=true)
--->
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=全栈工程师;后端架构师;技术爱好者" alt="Typing SVG" />
 </div>
 
-</td><td valign="top" width="33%">
+## 🚀 关于我
 
+- 💼 10年+ 全栈开发经验
+- 🔭 目前专注于后端架构设计
+- 🌱 持续学习新技术，保持技术敏锐度
+- 💡 热爱解决复杂技术问题
+- 📚 技术博客：[个人博客](https://github.com/ndlxp2008)
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+## 🛠️ 技术栈
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
-</td></tr></table>  
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+</div>
 
-<br/>  
+## 📊 GitHub 统计
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndlxp2008&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndlxp2008&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## Connect with me  
-邮箱地址：ndlxp2008@163.com  
-  
-<br/>  
+## 🏆 GitHub 成就
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndlxp2008&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+## 📫 联系我
+
+<div align="center">
+  <a href="mailto:ndlxp2008@163.com">
+    <img src="https://img.shields.io/badge/163%20Mail-FC1F1F?style=for-the-badge&logo=mail.ru&logoColor=white" alt="163 Mail" />
+  </a>
+  <a href="mailto:ndlxp2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ndlxp2008">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  </a>
+</div>
+
+## 👥 访问统计
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ndlxp2008/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndlxp2008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
