@@ -10,7 +10,7 @@
 - 🔭 目前专注于后端架构设计
 - 🌱 持续学习新技术，保持技术敏锐度
 - 💡 热爱解决复杂技术问题
-- 📚 技术博客：[个人博客](https://github.com/ndlxp2008)
+- 📚 技术博客：[个人博客](https://smartsoul.dpdns.org)
 
 ## 🛠️ 技术栈
 <div align="center">
